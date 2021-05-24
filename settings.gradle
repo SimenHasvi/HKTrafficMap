@@ -1,0 +1,2 @@
+rootProject.name='HKTraffic'
+include ':app'

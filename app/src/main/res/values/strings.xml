@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HKTrafficMap</string>
+    <string name="traffic_camera_url">https://static.data.gov.hk/td/traffic-snapshot-images/code/Traffic_Camera_Locations_En.xml</string>
+</resources>
